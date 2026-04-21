@@ -5,6 +5,7 @@ function Home() {
   return (
     <div className="container">
       <h1>Welcome to Our Flower Shop 🌼</h1>
+      <h3>Fresh flowers, beautiful moments, made just for you!!!!!!!!</h3>
 
       <div className="card-container">
         {flowers.map((flower) => (
