@@ -1,31 +1,30 @@
 [
-
-  { "id": 1,
-   "name": "Lily", 
-   "price": 120,
+  {
+    "id": 1,
+    "name": "Lily",
+    "price": 120,
     "color": "White",
-     "image": "https://cdn.britannica.com/77/120977-050-41EE9568/Easter-lily.jpg" },
-
-
-     { "id": 2, 
-  "name": "Tulip",
-   "price": 60, 
-   "color": "Pink",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCNEBqaDrdoYT0A-vDnBYU5ZDmcOF2KVnew&s" },
-
-
-    
-  { "id": 4, 
-  "name": "Rose",
-   "price": 80,
-    "color": "Pink", 
-    "image": "https://cdn.pixabay.com/photo/2023/06/07/21/09/pink-rose-8048268_1280.jpg" },
-
-  
-  
-  { "id": 5, 
-  "name": "Sunflower", 
-  "price": 100,
-   "color": "Yellow", 
-   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfCktidDUbIC73HWpdwvb2DDQy-OVa4LrEA&s" }
+    "image": "https://cdn.britannica.com/77/120977-050-41EE9568/Easter-lily.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tulip",
+    "price": 60,
+    "color": "Pink",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCNEBqaDrdoYT0A-vDnBYU5ZDmcOF2KVnew&s"
+  },
+  {
+    "id": 5,
+    "name": "Rose",
+    "price": 80,
+    "color": "Pink",
+    "image": "https://cdn.pixabay.com/photo/2023/06/07/21/09/pink-rose-8048268_1280.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sunflower",
+    "price": 100,
+    "color": "Yellow",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfCktidDUbIC73HWpdwvb2DDQy-OVa4LrEA&s"
+  }
 ]
