@@ -54,7 +54,7 @@ function Contact() {
         button {
           padding: 10px;
           border: none;
-          background-color: #286d1f;
+          background-color: #4b6b46;
           color: white;
           border-radius: 6px;
           cursor: pointer;
@@ -69,8 +69,8 @@ function Contact() {
       <div className="container">
         <h1>Contact Us</h1>
 
-        <p>Email: flowershop@gmail.com</p>
-        <p>Phone: +91 9500220050</p>
+        <p>Email: myflowershop@gmail.com</p>
+        <p>Phone: +91 76894 56789</p>
         <p>Address: Pune, Maharashtra, India</p>
 
         <div className="form-section">
