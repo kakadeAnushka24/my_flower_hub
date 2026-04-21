@@ -41,7 +41,7 @@ function About() {
     <div style={styles.container}>
 
       <section style={styles.section}>
-        <h2 style={styles.heading}>🌸 Our Mission</h2>
+        <h2 style={styles.heading}>Our Mission</h2>
         <p style={styles.paragraph}>
           Our mission is to deliver fresh, high-quality flowers with creative 
           designs and excellent customer service. We believe flowers are the 
@@ -50,18 +50,20 @@ function About() {
       </section>
 
       <section style={styles.section}>
-        <h2 style={styles.heading}>🌷 What We Offer</h2>
+        <h2 style={styles.heading}>Our Services🌷</h2>
         <ul style={styles.list}>
-          <li style={styles.listItem}>💐 Customized Bouquets</li>
-          <li style={styles.listItem}>🌹 Wedding & Event Decorations</li>
-          <li style={styles.listItem}>🎂 Birthday & Anniversary Flowers</li>
-          <li style={styles.listItem}>🌿 Indoor Plants & Green Gifts</li>
+           <li style={styles.listItem}>🌿 Indoor Plants & Green Gifts</li>
           <li style={styles.listItem}>🎁 Flower Gift Hampers</li>
+          <li style={styles.listItem}>🎂 Birthday & Anniversary Flowers</li>
+          <li style={styles.listItem}>🌹 Wedding & Event Decorations</li>
+          <li style={styles.listItem}>💐 Customized Bouquets</li>
+         
+          
         </ul>
       </section>
 
       <section style={styles.section}>
-        <h2 style={styles.heading}>🌼 Why Choose Us?</h2>
+        <h2 style={styles.heading}>Why Choose Us?</h2>
         <p style={styles.paragraph}>
           We carefully select fresh flowers daily from trusted growers to ensure 
           long-lasting beauty and fragrance. Our skilled florists design each 
