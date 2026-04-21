@@ -3,7 +3,7 @@ function About() {
   const styles = {
     container: {
       padding: "40px 20px",
-      backgroundColor: "#dbd3d4",
+      backgroundColor: "rgb(229, 217, 217)",
       minHeight: "100vh",
     },
     section: {
